@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Audio / Video files
+*.wav
+*.mp3
+*.mp4
+*.avi
+*.mkv
+*.mov
+recording_*
+uploads/
+
+# Large ML models
+vosk-model-en-us-0.22-lgraph/
+
+# OS
+Thumbs.db
+.DS_Store
